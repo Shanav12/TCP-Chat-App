@@ -1,0 +1,5 @@
+# TCP-Chat-App
+cmake-build-debug/
+.vscode/
+.idea/
+build/
